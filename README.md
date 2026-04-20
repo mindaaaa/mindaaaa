@@ -52,7 +52,7 @@ No activity tracked
 
 ---
 
-### 🗂 Projects
+### 👩‍💻 Projects
 
 <table>
   <tr>
@@ -119,7 +119,7 @@ No activity tracked
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ GitHub Stats
 
 <p>
   <picture>
