@@ -56,6 +56,15 @@ No activity tracked
 
 <table>
   <tr>
+      <td width="50%">
+      <h4><a href="https://github.com/ultra-ai-dle/frogger">Frogger</a></h4>
+      <p>AI 알고리즘 시각화 디버거<br/>바이브코딩 대회 4인 팀 · AI 협업 인프라 담당</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=transparent" height="18" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=transparent" height="18" />
+        <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white&labelColor=transparent" height="18" />
+      </p>
+    </td>
     <td width="50%">
       <h4><a href="https://github.com/boostcampwm2025/web06-locus">Locus</a></h4>
       <p>공간 기반 기록 서비스<br/>지도 위에서 장소별 기록을 저장하고 탐색</p>
@@ -65,6 +74,8 @@ No activity tracked
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=transparent" height="18" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4><a href="https://github.com/mindjuk/joka">Joka</a></h4>
       <p>가족 중심 사진 아카이브 PWA<br/>오프라인 퍼스트 아키텍처</p>
@@ -74,8 +85,6 @@ No activity tracked
         <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white&labelColor=transparent" height="18" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4><a href="https://github.com/mindaaaa/mini-git">mini-git</a></h4>
       <p>Git 내부 동작 원리를 직접 구현한 CLI<br/>blob, tree, commit 스냅샷 구조 재현</p>
@@ -84,6 +93,8 @@ No activity tracked
         <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logoColor=white&labelColor=transparent" height="18" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4><a href="https://github.com/mindaaaa/mint">mint</a></h4>
       <p>커스텀 스크립트 언어 인터프리터<br/>Lexer - Parser - Evaluator 파이프라인</p>
@@ -91,8 +102,6 @@ No activity tracked
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=transparent" height="18" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4><a href="https://github.com/mindaaaa/hanzawa-kanji-web">hanzawa-kanji</a></h4>
       <p>일본 상용한자 반복 학습 시스템<br/>SM-2 알고리즘 기반 스케줄링</p>
@@ -100,7 +109,6 @@ No activity tracked
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=transparent" height="18" />
       </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
@@ -110,6 +118,7 @@ No activity tracked
 
 | 기간              | 활동                                   | 내용                                                    |
 | ----------------- | -------------------------------------- | ------------------------------------------------------- |
+| 2026.04           | **AI 바이브코딩 대회** 4인 팀 참가     | 파이프라인 단위 역할 분담, 계층형 CLAUDE.md로 팀 공통 언어 합의 |
 | 2026.03 - 현재    | **잡식 스터디** 인사이트 공유 그룹     | 주간 기술 트렌드 공유 및 코드 리뷰                      |
 | 2026.02 - 현재    | **BoostStudy** CS & 기술 면접 스터디   | 자료구조/알고리즘 순환 학습, 기술 개념 언어화 훈련      |
 | 2026.01 - 현재    | **팀 Mindjuk** 사이드 프로젝트         | n8n, Docker 기반 인프라 자동화 주도                     |
