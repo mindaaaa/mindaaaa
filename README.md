@@ -158,6 +158,6 @@ Other         53 mins               █▓░░░░░░░░░░░░�
   <a href="https://github.com/mindaaaa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://mindaaaa.art"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://404minda.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" /></a>
-  <a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/Resume-2E7D32?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <!-- <a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/Resume-2E7D32?style=flat-square&logo=readthedocs&logoColor=white" /></a> -->
   <a href="mailto:avalc@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
